@@ -25,4 +25,4 @@ Process finished with exit code 0>
 
 Тестирование производилось в следующем окружении:
 * <Windows 10 Pro, версия 2004>
-* <11.0.11+9-b1504.13 amd64>
+* <IntelliJ IDEA 11.0.11+9-b1504.13 amd64>
